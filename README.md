@@ -1,6 +1,6 @@
-#FlightBot - A middlewhere to connect Google's Diagflow AI to SkyScanner Rapid API.
+# FlightBot - A middlewhere to connect Google's Diagflow AI to SkyScanner Rapid API.
 
-###Installation
+### Installation
 run "npm install" to install developement dependencies
 
 configure rapidAPI key in src/controllers/flight.controller
