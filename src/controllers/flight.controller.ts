@@ -57,7 +57,7 @@ export class FlightController {
             "headers":{
                 "content-type":"application/octet-stream",
                 "x-rapidapi-host":"skyscanner-skyscanner-flight-search-v1.p.rapidapi.com",
-                "x-rapidapi-key":"11ce42bd85mshfa6e4460c8d610ap1e58fdjsn33504d0d90db"
+                "x-rapidapi-key":"YOUR_API_KEY"
             },"params":{
                 "inboundpartialdate":"2019-12-01"
             }
